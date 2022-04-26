@@ -1,0 +1,9 @@
+{
+    "environments": {
+        "default": {
+            "profile": "DEFAULT",
+            "workspace_dir": "/Shared/wbench/dbx/ad_attrib",
+            "artifact_location": "dbfs:/Shared/dbx/projects/ad_attrib"
+        }
+    }
+}
